@@ -2,4 +2,3 @@ adding content to file1
 adding third line.
 appending second line.
 adding fourth line.
-adding fifth line with different branch.
